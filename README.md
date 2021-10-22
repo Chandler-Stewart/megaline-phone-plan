@@ -2,7 +2,7 @@
 
 This project focuses on using some exploratory data analysis as well as null hypothesis testing to compare different datasets.
 
-We have information on aproximately 500 fake users that have two different types of cell phone plans: a _surf_ plan and an _ultimate_ plan. We have information about where they're from, which plan they use, and the number of calls, text messages, and time spent on the internet in a single year. In this project, the plan is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
+We have information on approximately 500 fake users that have two different types of cell phone plans: a _surf_ plan and an _ultimate_ plan. We have information about where they're from, which plan they use, and the number of calls, text messages, and time spent on the internet in a single year. In this project, the plan is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
 
 ## What to know about this project:
 
